@@ -1,5 +1,8 @@
 *Instagram's login page*
 
+This site is live at https://carolinadargel.github.io/instagram-login-page/
+
+
 This project reproduces Instagram's login page using HTML5 and a CSS style sheet, with flexbox. The idea is to make a very similar page to the Instagram's original login page, with responsivity solutions to improve mobile user's experience.
 
 This is a CSS - Flexbox challenge FullStack Bootcamp by Santander with DIO.
